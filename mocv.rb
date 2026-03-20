@@ -1,4 +1,4 @@
-class Ocv < Formula
+class Mocv < Formula
   desc "OpenCode with Vim keybindings - AI coding assistant for the terminal"
   homepage "https://github.com/leohenon/opencode"
   version "1.2.27"
