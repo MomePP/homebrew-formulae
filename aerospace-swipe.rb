@@ -7,8 +7,8 @@ class AerospaceSwipe < Formula
   desc "Trackpad swipe gestures for AeroSpace workspace switching"
   homepage "https://github.com/MomePP/aerospace-swipe"
   url "https://github.com/MomePP/aerospace-swipe.git",
-      tag:      "v1.1.1",
-      revision: "7d468e93bead8d71bfea8ca993cc04e53fb76dab"
+      tag:      "v1.1.2",
+      revision: "a5692d614befff0e177861dc5604c0e75b0b884a"
   license "MIT"
   head "https://github.com/MomePP/aerospace-swipe.git", branch: "main"
 
