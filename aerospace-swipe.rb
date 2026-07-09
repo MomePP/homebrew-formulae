@@ -8,7 +8,7 @@ class AerospaceSwipe < Formula
   homepage "https://github.com/MomePP/aerospace-swipe"
   url "https://github.com/MomePP/aerospace-swipe.git",
       tag:      "v1.0.0",
-      revision: "8b654ee39e1ccd24d1d1383e5a3e7e90d3329108"
+      revision: "66f5600e1a5ed604044f4217ba5c66034ea1b2a7"
   license "MIT"
   head "https://github.com/MomePP/aerospace-swipe.git", branch: "main"
 
