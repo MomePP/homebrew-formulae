@@ -5,12 +5,12 @@
 # aerospace-swipe.rb
 class AerospaceSwipe < Formula
   desc "Trackpad swipe gestures for AeroSpace workspace switching"
-  homepage "https://github.com/MomePP/aerospace-swipe"
-  url "https://github.com/MomePP/aerospace-swipe.git",
-      tag:      "v1.0.2",
-      revision: "899e1718c5dfd2c876fa7420b064b9cc1ca2d29d"
+  homepage "https://github.com/MomePP/AerospaceSwipe"
+  url "https://github.com/MomePP/AerospaceSwipe.git",
+      tag:      "v1.0.3",
+      revision: "2a522880d318180596fe1a2012b559b97b0feafe"
   license "MIT"
-  head "https://github.com/MomePP/aerospace-swipe.git", branch: "main"
+  head "https://github.com/MomePP/AerospaceSwipe.git", branch: "main"
 
   depends_on :macos
 
